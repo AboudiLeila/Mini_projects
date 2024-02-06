@@ -5,6 +5,3 @@ So one thing led to another, I came out with this Alarm Clock and The one in the
 
 I hope you'll have the same as me !
 
-
-
-![Alarm Clock Window](Alarm%20Clock/Alarm%20Clock%20Window.png)
