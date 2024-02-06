@@ -1,7 +1,26 @@
-So i recently broke my phone. The biggest matter is waking up! As I need noisy or powerful songs,
-the default songs of my 2 PCs actually were making me sleep even deep, instead of waking me 🙄.
+# Mini Projects
 
-So one thing led to another, I came out with this Alarm Clock and The one in the Streamlit repository.
+Welcome to the Mini Projects folder! This repository contains a collection of small projects I will be doing for daily use.
 
-I hope you'll have the same as me !
+## Contents
 
+- **Alarm Clock**
+  - A simple alarm clock application built in Python.
+  - Includes a GUI window displaying the alarm settings.
+  - To use, run `main.py`.
+
+- **Weather App** (on going)
+  - A command-line application for checking the current weather conditions.
+  - Utilizes a weather API to fetch real-time weather data.
+  - To use, run `weather_app.py`.
+
+- **Calculator** (on going)
+  - A basic calculator program implemented in Java.
+  - Supports addition, subtraction, multiplication, and division,...
+  - To use, compile and run `Calculator.py`.
+
+
+## Contributing
+
+Feel free to contribute to any of the projects in this repository! Whether it's fixing a bug or adding a new feature,
+contributions are welcome. You are welcome to send me an email on aboudileila1997@gmail.com
